@@ -1,0 +1,4 @@
+This is the new text file.
+Here is the second line.
+Third line!
+FOURTH LINE IS HERE
